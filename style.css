@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100vw;
+}
+
+h1,
+p {
+  margin-bottom: 20px;
+}
+
+div {
+  width: 700px;
+  text-align: right;
+  position: absolute;
+  top: 0;
+  right: 0;
+  float: right;
+  background-color: white;
+  margin: 5px;
+}
